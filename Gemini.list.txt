@@ -16,9 +16,7 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,apis.google.com
-DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
-DOMAIN-SUFFIX,notifications-pa.googleapis.co
-DOMAIN-SUFFIX,subscriptionsfirstparty-pa.googleapis.com
+DOMAIN-SUFFIX,pa.googleapis.com
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
