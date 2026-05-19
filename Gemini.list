@@ -20,7 +20,6 @@ DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,mtalk.google.com
 DOMAIN-SUFFIX,clientservices.googleapis.com
-DOMAIN-SUFFIX,oauth2.googleapis.com
 DOMAIN-SUFFIX,subscriptionsfirstparty-pa.googleapis.com
 DOMAIN,cloudconfig.googleapis.com
 DOMAIN,update.googleapis.com
