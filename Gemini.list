@@ -6,11 +6,11 @@
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 9
 # TOTAL: 16
+DOMAIN,proactivebackend-pa.googleapis.com
 DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,makersuite.google.com
 DOMAIN,notebooklm.google.com
-DOMAIN,proactivebackend-pa.googleapis.com
 DOMAIN,clients6.google.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,deepmind.com
