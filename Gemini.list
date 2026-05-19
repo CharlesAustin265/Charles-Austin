@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,mtalk.google.com
 DOMAIN-SUFFIX,play.googleapis.com
 DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
 DOMAIN-SUFFIX,clientservices.googleapis.com
+DOMAIN-SUFFIX,oauth2.googleapis.com
 DOMAIN-SUFFIX,subscriptionsfirstparty-pa.googleapis.com
 DOMAIN,cloudconfig.googleapis.com
 DOMAIN,update.googleapis.com
