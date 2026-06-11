@@ -1,7 +1,0 @@
-- DOMAIN-SUFFIX,pubgmobile.com  
-- DOMAIN-SUFFIX,gpubgm.com  
-- DOMAIN-SUFFIX,amsoveasea.com  
-- DOMAIN-SUFFIX,igamecj.com  
-- DOMAIN-SUFFIX,intlgame.com  
-- DOMAIN-SUFFIX,levelinfinite.com  
-- DOMAIN-SUFFIX,proximabeta.com  
