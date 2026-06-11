@@ -1,28 +1,24 @@
-******# NAME: Gemini
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:20:02
-# DOMAIN: 4
-# DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 9
-# TOTAL: 16
-DOMAIN,proactivebackend-pa.googleapis.com
-DOMAIN,ai.google.dev
-DOMAIN,alkalimakersuite-pa.clients6.google.com
-DOMAIN,makersuite.google.com
-DOMAIN,notebooklm.google.com
-DOMAIN,clients6.google.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,apis.google.com
-DOMAIN-SUFFIX,mtalk.google.com
-DOMAIN-SUFFIX,clientservices.googleapis.com
-DOMAIN,subscriptionsfirstparty-pa.googleapis.com
-DOMAIN,cloudconfig.googleapis.com
-DOMAIN,update.googleapis.com
-DOMAIN-KEYWORD,colab
-DOMAIN-KEYWORD,developerprofiles
-DOMAIN-KEYWORD,generativelanguage
+# >>>>> PUBG Mobile (国际服) 分流规则列表 <<<<<
+# 适用软件：Loon, Surge, Shadowrocket, Stash 等
+# 作用：保障登录、大厅加载、反作弊验证以及对局流量稳定
+
+# ====== 核心域名后缀 (DOMAIN-SUFFIX) ======
+DOMAIN-SUFFIX,pubgmobile.com
+DOMAIN-SUFFIX,gpubgm.com
+DOMAIN-SUFFIX,levelinfinite.com
+DOMAIN-SUFFIX,intlgame.com
+DOMAIN-SUFFIX,proximabeta.com
+DOMAIN-SUFFIX,amsoveasea.com
+DOMAIN-SUFFIX,igamecj.com
+DOMAIN-SUFFIX,vnggames.com
+DOMAIN-SUFFIX,pax.ucloudgda.com
+DOMAIN-SUFFIX,wellbia.com
+DOMAIN-SUFFIX,acesecure.net
+
+# ====== 腾讯海外云及对局服务器常用 IP 段 (IP-CIDR) ======
+# 加上 no-resolve 是为了让代理软件不强制在本地解析它，直接交由节点处理，防止高延迟
+IP-CIDR,162.62.0.0/16,no-resolve
+IP-CIDR,119.28.0.0/16,no-resolve
+IP-CIDR,150.109.0.0/16,no-resolve
+IP-CIDR,43.129.0.0/16,no-resolve
+IP-CIDR,129.226.0.0/16,no-resolve
