@@ -7,13 +7,25 @@ DOMAIN-SUFFIX,playbattlegrounds.com
 DOMAIN-SUFFIX,pubg.com
 DOMAIN-SUFFIX,battlegroundsgame.com
 DOMAIN-SUFFIX,chunk.live.playbattlegrounds.com
+DOMAIN-SUFFIX,intlgame.com
+DOMAIN-SUFFIX,levelinfinite.com
+DOMAIN-SUFFIX,gameloop.com
+DOMAIN-SUFFIX,idtopup.com
 
 # ====== 核心反作弊系统 (关键：不走代理极易卡死或报初始化错误) ======
 DOMAIN-SUFFIX,battleye.com
 DOMAIN-SUFFIX,wellbia.com
 DOMAIN-SUFFIX,xigncode.info
+DOMAIN-SUFFIX,cloud.vnggames.vn
+DOMAIN-SUFFIX,tgpa.qq.com
+DOMAIN-KEYWORD,wellbia
+DOMAIN-KEYWORD,acesecure
 
 # ====== 额外补充：Steam 平台登录与社区 (可选，若已在 Game.list 中可不加) ======
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steamstatic.com
+
+# ====== 游戏内语音系统 (偶尔卡在进局时，因为语音被拦截) ======
+DOMAIN-SUFFIX,gcloud.com
+DOMAIN-SUFFIX,itopstory.com
