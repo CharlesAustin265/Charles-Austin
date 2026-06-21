@@ -12,6 +12,19 @@ DOMAIN-SUFFIX,levelinfinite.com
 DOMAIN-SUFFIX,gameloop.com
 DOMAIN-SUFFIX,idtopup.com
 
+# ====== 核心域名后缀 (DOMAIN-SUFFIX) ======
+DOMAIN-SUFFIX,pubgmobile.com
+DOMAIN-SUFFIX,gpubgm.com
+DOMAIN-SUFFIX,levelinfinite.com
+DOMAIN-SUFFIX,intlgame.com
+DOMAIN-SUFFIX,proximabeta.com
+DOMAIN-SUFFIX,amsoveasea.com
+DOMAIN-SUFFIX,igamecj.com
+DOMAIN-SUFFIX,vnggames.com
+DOMAIN-SUFFIX,pax.ucloudgda.com
+DOMAIN-SUFFIX,wellbia.com
+DOMAIN-SUFFIX,acesecure.net
+
 # ====== 核心反作弊系统 (关键：不走代理极易卡死或报初始化错误) ======
 DOMAIN-SUFFIX,battleye.com
 DOMAIN-SUFFIX,wellbia.com
